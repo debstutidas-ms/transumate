@@ -1,0 +1,5 @@
+Hier ist eine Zusammenfassung der Text in 100-200 Worten auf Deutsch:
+
+Wenn wir den Begriff "Roboter" hören, sehen wir meistens einen metallenen Container mitrobotisch anmutenden Augen und einer mechanischen Stimme vor uns. Dieses Bild stammt jedoch von der Pop-Kultur und nicht vom realen Leben. Realistische Roboter sind vielmehr auf ihre Aufgabenprogrammiert, ohne menschliche Kreativität und Intelligenz zu besitzen. Sie folgen einfach ihren Anweisungen und können sich nicht anpassen oder neue Probleme lösen.
+
+Die künstliche Intelligenz (KI) wird entwickelt, um diese Begrenzung zu überwinden. Das Konzept der KI stammt bereits aus den 1950er Jahren von Alan Turing. Im Laufe der Zeit wurden Chatbots wie Eliza und Schachcomputer wie IBM Deep Blue entwickelt. Heute gibt es auch digitale Assistenten wie Siri und OpenAI, die menschliche Intelligenz simulieren sollen. Die KI wird also in Zukunft immer wichtiger, um Roboter zu erstellen, die nicht nur Aufgaben ausführen, sondern auch komplexe Probleme lösen können.

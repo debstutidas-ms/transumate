@@ -1,0 +1,8 @@
+pdf2image
+pytesseract
+streamlit
+reportlab
+pdfplumber
+transformers
+torch
+sentencepiece
